@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+	direction: rtl;
+}
+
+header, section, footer {
+	padding: 20px;
+	border-bottom: 1px solid #ccc;
+}
+
+nav a {
+	margin: 0 10px;
+}
+
+	
